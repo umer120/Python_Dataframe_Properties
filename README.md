@@ -16,3 +16,8 @@ Reading a Dataframe made in Python using several properties and functions
 - Used further properties like extracting details based on some condition such as age being greater than 28
 
 - Creating a new column, deleting a column, converting the dataframe formed into a proper excel file
+
+
+**Pandas_DataFrame_Exercise.py:**
+
+- Made a Dataframe and performed various tasks on it 
